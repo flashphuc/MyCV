@@ -4,7 +4,8 @@
 
 body {
   /* background: conic-gradient(white, powderblue, rgb(182, 182, 255)); */
-  background-image: url("background.png");
+  background: url("background.png");
+  /* background: conic-gradient(white, powderblue); */
 }
 
 #container {
